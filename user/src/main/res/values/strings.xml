@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contact_info">Contact Information</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="birth_date">Date of birth</string>
+    <string name="register_date">Register date</string>
+    <string name="profile">Profile</string>
+</resources>
